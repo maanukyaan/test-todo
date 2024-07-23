@@ -8,7 +8,7 @@
 
 1. **Клонируйте репозиторий:**
 
-   git clone https://github.com/maanukyaan/todo.git
+   git clone https://github.com/maanukyaan/test-todo.git
 
 2. **Перейдите в директорию проекта:**
 
